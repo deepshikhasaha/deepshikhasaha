@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepshikhasaha&label=Profile%20views&color=0e75b6&style=flat" alt="anirban" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/deepshikha-saha-a20401241" target="_blank"><img align="center" src="https://https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="----------" height="40" width="40" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/deepshikha-saha-a20401241" target="_blank"><img align="center" src=images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="----------" height="40" width="40" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Power BI, MySQL , Tableau**
 
