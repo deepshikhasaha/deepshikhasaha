@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Deepshikha Saha</h1>
 <h3 align="center">A passionate Power BI developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepshikhasaha&label=Profile%20views&color=0e75b6&style=flat" alt="deepshikha" /> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/deepshikha-saha-a20401241" target="_blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="----------" height="40" width="40" /></a> </p>
